@@ -1,0 +1,10 @@
+body {
+    background-color: #EEE;
+    padding: 12rem;
+}
+h1, h2, h3 {
+    font-family: 'PT Serif', serif;
+}
+h2 {
+    color: #555;
+}
